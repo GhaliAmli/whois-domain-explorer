@@ -49,7 +49,3 @@ Enter an IP or domain: example.com
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
-Veux‑tu que je fasse ça ?
-```
