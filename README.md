@@ -17,7 +17,7 @@ A Python-based tool to explore domains and IP addresses. Retrieve **WHOIS inform
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/whois-domain-explorer.git
+git clone https://github.com/GhaliAmli/whois-domain-explorer.git
 cd whois-domain-explorer
 pip install -r requirements.txt
 ````
